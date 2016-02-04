@@ -1,0 +1,3 @@
+callEncode(input) {
+	
+}
